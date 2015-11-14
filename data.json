@@ -1,0 +1,134 @@
+{
+    "name": "Xinfeng Du",
+    "contact": [
+        {
+            "name": "Phone",
+            "value": "+86 186-1135-0076"
+        },
+        {
+            "name": "E-mail",
+            "value": "me@duxinfeng.com",
+            "href": "mailto:me@duxinfeng.com"
+        },
+        {
+            "name": "GitHub",
+            "value": "duxinfeng",
+            "href": "https://github.com/mlex121"
+        }
+    ],
+    "jobs": [
+        {
+            "title": "Software Engineering Intern (iOS Foundation, Clients Team)",
+            "company": "Haojiazhang",
+            "href": "https://haojiazhang123.com/",
+            "begin_date": "June 2015",
+            "end_date": "present",
+            "location": "Beijing, China",
+            "descriptions": [
+                "Working on core services for Haojiazhang's iOS client.",
+                "Revamping push notification settings on the iOS client."
+            ],
+            "technologies": ["Objective-C (iOS)", "git"]
+        },
+        {
+            "title": "Software Engineering Intern (Microsoft Excel for iOS/OS X, Applications and Services Group)",
+            "company": "Microsoft",
+            "href": "http://www.microsoft.com/",
+            "begin_date": "January",
+            "end_date": "April 2015",
+            "location": "Redmond, WA",
+            "descriptions": [
+                "Built the cell comments feature in the iPhone version of Excel.",
+                "Built the UI for Microsoft Query on Excel for Mac 2016, which included SQL syntax highlighting and query results that load on scroll."
+            ],
+            "technologies": ["Objective-C (iOS, OS X)", "C++", "C", "Perforce"]
+        },
+        {
+            "title": "Web and GUI Developer Intern",
+            "company": "Quantitative Brokers",
+            "href": "http://quantitativebrokers.com/",
+            "begin_date": "May",
+            "end_date": "August 2014",
+            "location": "New York City, NY",
+            "descriptions": [
+                "Built a GUI using C++ and Qt providing real-time trading engine data to the trading desk.",
+                "Built a real-time web dashboard for monitoring scripts running on various servers.",
+                "Worked on a Django web application for browsing trade summary data and TCAs."
+            ],
+            "technologies": ["Python (Django, gevent)", "JavaScript (jQuery, Backbone.js)", "C++ (Qt)", "git"]
+        },
+        {
+            "title": "Agile Engineering Intern (iOS Development)",
+            "company": "Pivotal Labs",
+            "href": "http://pivotal.io/labs",
+            "begin_date": "September",
+            "end_date": "December 2013",
+            "location": "Toronto, ON",
+            "descriptions": [
+                "Built AccuWeather, a weather app providing detailed forecasts and a new UI for iOS 7."
+            ],
+            "technologies": ["Objective-C (iOS)", "git"]
+        },
+        {
+            "title": "Agile Engineering Intern (iOS Development)",
+            "company": "Xtreme Labs",
+            "href": "http://pivotal.io/labs",
+            "begin_date": "January",
+            "end_date": "April 2013",
+            "location": "Toronto, ON",
+            "descriptions": [
+                "Worked on Cypress, a file management application on the iPhone and iPad that synchronizes local storage with Sharepoint, Dropbox, and Box.",
+                "Worked on Karmaloop, a shopping application on the iPhone."
+            ],
+            "technologies": ["Objective-C (iOS)", "git"]
+        }
+    ],
+    "projects": [
+        {
+            "name": "OMG UW",
+            "begin_date": "April 2014",
+            "end_date": "Present",
+            "href": "http://www.omguw.com/",
+            "display_url": "www.omguw.com",
+            "location": "Waterloo, ON",
+            "descriptions": [
+                "A site that lets Waterloo students anonymously share stories, questions, and missed connections.",
+                "Responsible for fixing technical issues and moderating submissions and comments.",
+                "Receives 250,000+ page views, 1,000+ submissions, and 1,500+ comments a month, backed by Google's Blogger platform."
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "title": "Languages",
+            "skill_items": [
+                {
+                    "name": "Objective-C",
+                    "description": "Twitter (iOS), Microsoft Excel (iOS and OS X), and AccuWeather (iOS)"
+                },
+                {
+                    "name": "C++",
+                    "description": "Microsoft Excel and Qt GUIs and networking code for Quantitative Brokers"
+                },
+                {
+                    "name": "Python",
+                    "description": "Web back-ends at Quantitative Brokers and the script for generating this resume."
+                },
+                {
+                    "name": "JavaScript",
+                    "description": "Front-ends (vanilla JS and Backbone.js) at Quantitative Brokers."
+                }
+            ]
+        }
+    ],
+    "education": [
+        {
+            "name": "Nanyang Institute of Technology",
+            "degree": "Bachelor of Software Engineering",
+            "href": "http://www.nyist.net",
+            "begin_date": "June 2010",
+            "end_date": "August 2014",
+            "location": "Henan, China"
+        }
+    ]
+}
